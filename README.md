@@ -1,6 +1,6 @@
 # 欢迎
 欢迎来到我的主页，来的好早啊！
-是第![](https://hitwebcounter.com/counter/counter.php?page=8674372&style=0008&nbdigits=5&type=page&initCount=0)个来的。\
+是第![count](https://hitwebcounter.com/counter/counter.php?page=8674372&style=0008&nbdigits=5&type=page&initCount=0)个来的。\
 初来乍到，请多包涵\
 ↓ 可怜的贡献值 ↓
 <picture>
