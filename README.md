@@ -1,13 +1,14 @@
 # 欢迎
 欢迎来到我的主页，来的好早啊！
-是第<img src="https://hitwebcounter.com/counter/counter.php?page=8674372&style=0008&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />个来的。\
+<!-- 访客计数器已移除，避免加载失败问题 -->
+<!-- 是第<img src="https://hitwebcounter.com/counter/counter.php?page=8674372&style=0008&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />个来的。 -->
 初来乍到，请多包涵\
 \
 ↓ 可怜的贡献值 ↓
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhuo-yue-shi/zhuo-yue-shi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhuo-yue-shi/zhuo-yue-shi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhuo-yue-shi/zhuo-yue-shi/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.bgithub.xyz/zhuo-yue-shi/zhuo-yue-shi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.bgithub.xyz/zhuo-yue-shi/zhuo-yue-shi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.bgithub.xyz/zhuo-yue-shi/zhuo-yue-shi/output/github-contribution-grid-snake.svg">
 </picture>
 
 # 介绍
@@ -35,3 +36,5 @@ Ui库喜欢用`PyQt5`，不喜欢`Pygame`式的Ui。
 + [ ] 获得50个标星
 + [ ] 上传3串代码\
 <font size = 0.5>好少啊</font>
+
+<!-- 如需访客计数功能，可将其迁移到个人Pages，并用百度云等服务实现后台计数和显示 -->
