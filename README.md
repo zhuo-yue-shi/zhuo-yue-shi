@@ -8,8 +8,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhuo-yue-shi/zhuo-yue-shi/output/github-contribution-grid-snake.svg">
 </picture>
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=zhuo-yue-shi&show_icons=true)
-
 ## 基本
 游窜于各个领域的万年老登\
 **评价：杂**\
